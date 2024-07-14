@@ -121,3 +121,4 @@ echo $NAME
 echo $NAME > stdout.txt
 t
 echo $NAME > stdout.txt
+echo freeCodeCamp > name.txt
