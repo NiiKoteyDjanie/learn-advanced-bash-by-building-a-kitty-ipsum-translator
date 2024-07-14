@@ -127,3 +127,4 @@ echo $NAME
 echo Sam
 echo $NAME
 cat
+cat name.txt
