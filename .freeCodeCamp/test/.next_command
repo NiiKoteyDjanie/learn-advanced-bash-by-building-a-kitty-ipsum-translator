@@ -136,3 +136,4 @@ chmod +x script.sh
 echo Sam
 echo Sam
 echo Kotey
+./script.sh < name.txt
