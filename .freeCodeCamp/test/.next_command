@@ -126,3 +126,4 @@ read NAME < name.txt
 echo $NAME
 echo Sam
 echo $NAME
+cat
