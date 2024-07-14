@@ -118,3 +118,6 @@ bad_command 2> stderr.txt
 echo hello bash > stdout.txt
 read NAME
 echo $NAME
+echo $NAME > stdout.txt
+t
+echo $NAME > stdout.txt
